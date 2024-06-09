@@ -1,6 +1,6 @@
 # Youtube-Transcript-App
 ## Description
-[PYTHON] The application uses the Python API of youtube-transcript to pull a transcript from the Youtube video. The app asks for a user input of a YouTube link in which the API generates the transcript which can include auto generated subtitles.
+[PYTHON] The application uses the Python API of youtube-transcript to pull a transcript from the Youtube video. The app asks for a user input of a YouTube link in which the API generates the transcript. Auto generated subtitles may be produced as well.
 
 ## Features
 This app works for a public YouTube video link and only requires its URL.
