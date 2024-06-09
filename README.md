@@ -4,7 +4,9 @@
 
 ## Features
 This app works for a public YouTube video link and only requires its URL.
+
 A scroll bar exists for if the transcript becomes super long.
+
 The GUI window is resizable as you wish.
 
 ## Installation
