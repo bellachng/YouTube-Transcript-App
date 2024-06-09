@@ -1,2 +1,2 @@
-# YouTube-Transcript-App
-[PYTHON] An application that utilizes a YouTube link and produces a transcript.
+# Youtube-Transcript-App
+ [PYTHON]  Application that takes a Youtube URL and produces an audio transcript.
